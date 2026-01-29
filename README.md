@@ -1,7 +1,7 @@
-# tarea-1
+# Tarea-1
 Repositorio de la tarea 1 de Desarrollo web
 
-Investigación: El Estándar USB (Bus Serie Universal)
+**Investigación: El Estándar USB (Bus Serie Universal)**
 1. **Introducción (El "Qué")**
 - Definición: El USB es un estándar de comunicación diseñado para conectar, comunicar y suministrar alimentación eléctrica entre computadoras y periféricos.
 
