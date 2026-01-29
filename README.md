@@ -12,7 +12,9 @@ Repositorio de la tarea 1 de Desarrollo web
 
 **Desarrollo Técnico (El "Cómo")**
 
-- Funcionamiento: El sistema utiliza una arquitectura de tipo "maestro-esclavo". Cuando conectas un dispositivo:
+**Funcionamiento:**
+
+- El sistema utiliza una arquitectura de tipo "maestro-esclavo". Cuando conectas un dispositivo:
 
 - El "Host" (la computadora) detecta el cambio de voltaje en las líneas de datos.
 
